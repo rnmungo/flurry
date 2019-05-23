@@ -1,0 +1,40 @@
+.form-cont {
+  min-width: 30rem;
+  width: 55rem;
+}
+
+.form-group input[type="text"] {
+  width: 28rem;
+}
+
+.form-group input[type="number"] {
+  width: 12rem;
+}
+
+button[type="submit"] {
+  margin:0 auto;
+  display: block;
+}
+
+.custom-file-input ~ .custom-file-label::after {
+  content: "Elegir";
+}
+
+.custom-file {
+  width: 18rem;
+}
+
+.custom-file input[type="file"] {
+  width: 22rem;
+}
+
+#pictureDiv {
+  width: 12rem !important;
+  height: 12rem !important;
+}
+
+#deleteBtn {
+  font-size: 2rem;
+  background: transparent;
+  transform: translate(700%);
+}
