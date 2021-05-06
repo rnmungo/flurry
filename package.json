@@ -25,6 +25,6 @@
   "dependencies": {
     "chart": "^0.1.2",
     "chart.js": "^2.7.3",
-    "highcharts": "^7.0.2"
+    "highcharts": "^9.0.0"
   }
 }
