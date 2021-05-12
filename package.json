@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "chart": "^0.1.2",
-    "chart.js": "^2.7.3",
+    "chart.js": "^2.9.4",
     "highcharts": "^7.0.2"
   }
 }
